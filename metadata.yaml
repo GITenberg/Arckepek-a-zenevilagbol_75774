@@ -1,11 +1,16 @@
 _repo: Arckepek-a-zenevilagbol_75774
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Papp, Viktor
     gutenberg_agent_id: '58136'
     url: http://www.gutenberg.org/2009/agents/58136
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75774#Arckepek-a-zenevilagbol
 gutenberg_issued: '2025-04-01'
 gutenberg_type: Text
 identifiers:
